@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="0L4$mJBi}O;Jl96QW#zT" x="20" y="20"></block><block type="device_forever" id="T5JaN$^[Rs*N*XUm4p_W" x="225" y="20"><statement name="HANDLER"><block type="device_show_leds" id="`[Q}9@L[LiA5,vs/t/d_"><field name="LEDS">`
+        . # . . . 
+        # # . . . 
+        . . . . . 
+        . . . # . 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="}e[9;1yu:F1vugHnRK`B"><field name="LEDS">`
+        # . . . . 
+        . # . . . 
+        . . # . . 
+        . . . # . 
+        . . . . #
+        `</field></block></next></block></statement></block></xml>
